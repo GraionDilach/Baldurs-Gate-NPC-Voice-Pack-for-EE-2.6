@@ -3,12 +3,13 @@
 ## Overview
 This mod adds Baldur's Gate NPC voicesets as selectable player voicesets to the Infinity Engine (Baldur's Gate/Baldur's Gate II/Icewind Dale) Enhanced Edition games version 2.6 or above.
 
-##Limitations
+## Limitations
 Due to inconsistency between voicesets in the source games, not every voiceset covers every role. Discrepancies between characters are commonplace. Vanilia BG1 characters might have their sets extended with BG2 lines (marked with a + on the voice selection UI) while BGEE characters have SoD and BG1EE merged together because their BGEE voiceset contains the absolute minimum amount of lines.
 
 ## Version history
 ### 0.1.0
 Initial release.
+
 Adds the following 15 BG(EE) characters:
  - Branwen (extended with lines from the BG2 tutorial)
  - Montaron
