@@ -11,9 +11,9 @@ Due to inconsistency between voicesets in the source games, not every voiceset c
 Cosmetics.
 
 ### 0.2.1
-Added Jaheira (BG2)
-Added Project Infinity metadata
-Applied workaround for WeiDU 247
+ - Added Jaheira (BG2)
+ - Added Project Infinity metadata
+ - Applied workaround for WeiDU 247
 
 ### 0.2.0
 Adds the following 15 sets:
