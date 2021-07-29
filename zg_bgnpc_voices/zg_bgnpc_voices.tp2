@@ -1,6 +1,6 @@
 BACKUP ~zg_bgnpc_voices/backup~ // location to store files for uninstall purposes
 SUPPORT "https://forums.beamdog.com/discussion/82008"
-VERSION ~0.2.1~
+VERSION ~0.2.2~
 
 
 LANGUAGE ~English~ ~english~ ~zg_bgnpc_voices/english/setup.tra~
