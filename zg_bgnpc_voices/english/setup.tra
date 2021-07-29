@@ -1279,6 +1279,50 @@
 @3969 = ~I can stand no more. This idiocy must stop, or I will be forced to take my leave.~ [zgcedw6_]   ///  cd_unhappy_2 #6_
 
 
+@4000 = ~BGNPC: Jaheira (BG2)~
+@4001 = ~It is done.~ [zgcjaii]    ///  cd_action1 #i
+@4002 = ~I am willing.~ [zgcjaij]    ///  cd_action2 #j
+@4003 = ~I go.~ [zgcjaik]    ///  cd_action3 #k
+@4004 = ~As I would have done.~ [zgcjais]    ///  cd_action4 #s
+@4005 = ~If it will help.~ [zgcjait]    ///  cd_action5 #t
+@4006 = ~I thought as much.~ [zgcjaiu]    ///  cd_action6 #u
+@4007 = ~As you would have it.~ [zgcjaiv]    ///  cd_action7 #v
+@4008 = ~You require nothing more?~ [zgcjaix]    ///  cd_action_rare1 #x
+@4009 = ~If you think it is wise to do so. So much comes back to haunt us.~ [zgcjaiy]    ///  cd_action_rare2 #y
+@4016 = ~For the fallen!~ [zgcjaia]    ///  cd_battlecry1 #a
+@4017 = ~Fall, creature! And feed the earth!~ [zgcjai8]    ///  cd_battlecry2 #8
+@4018 = ~Nature take the life she gave!~ [zgcjai9]    ///  cd_battlecry3 #9
+@4021 = ~It is strange that we stand about when there is so much to do.~ [zgcjaid]    ///  cd_bored #d
+@4022 = ~I will not tolerate this waste of time. Let's get moving! We've much to do!~ [zgcjaii_]   ///  cd_bored2 #i_
+@4023 = ~I... I cannot believe the change in this group! For the greater balance, I... I must oppose you!~ [zgcjaij_]   ///  cd_breaking_pt #j_
+@4024 = ~I have no patience for cities. Our stay had best be a short one.~ [zgcjaio]    ///  cd_city #o
+@4025 = ~Nature's servant awaits.~ [zgcjaif]    ///  cd_common1 #f
+@4026 = ~I await your need.~ [zgcjaig]    ///  cd_common2 #g
+@4027 = ~Yes?~ [zgcjaih]    ///  cd_common3 #h
+@4028 = ~I am ready.~ [zgcjai0]    ///  cd_common4 #0
+@4029 = ~It is about time.~ [zgcjaik_]   ///  cd_common5 #k_
+@4030 = ~Speak your mind.~ [zgcjail_]   ///  cd_common6 #l_
+@4031 = ~Oh, omnipresent authority figure, what are your commands now?~ [zgcjaim_]   ///  cd_common7 #m_
+@4032 = ~With vengeance!~ [zgcjaiz]    ///  cd_criticalhit #z
+@4033 = ~Ugh!~ [zgcjai1]    ///  cd_criticalmiss #1 (number)
+@4034 = ~Agh!~ [zgcjail]    ///  cd_damage #l (letter)
+@4037 = ~I welcome each day we see. Some are not so lucky. ~ [zgcjaiq]    ///  cd_day #q
+@4038 = ~My concentration is undone. My spell has failed!~ [zgcjai6]    ///  cd_disrupted #6
+@4039 = ~Nature could find a home here if it were properly cleansed and balanced.~ [zgcjaip]    ///  cd_dungeon #p
+@4040 = ~Aaa-ahhh...~ [zgcjaim]    ///  cd_dying #m
+@4042 = ~I am at peace in the outdoor places, though it never seems to last.~ [zgcjain]    ///  cd_forest #n
+@4045 = ~Our actions are good, and will serve the greater balance.~ [zgcjair_]   ///  cd_happy #r_
+@4046 = ~I will require healing if I am to be of use to the group.~ [zgcjaie]    ///  cd_hurt #e
+@4047 = ~I'm wounded.~ [zgcjais_]   ///  cd_hurt2 #s_
+@4048 = ~Weapon has no effect!~ [zgcjai2]    ///  cd_immune #2
+@4049 = ~I have too much in my pack as it is. You'll have to pick that up off the ground.~ [zgcjai3]    ///  cd_inventory #3
+@4050 = ~As I have said before, you could not have made a better choice.~ [zgcjaib]    ///  cd_leader #b
+@4052 = ~I will not fall here!~ [zgcjaiu_]   ///  cd_morale_break #u_
+@4054 = ~Nature has many children that call the darkness home. I am not one of them. ~ [zgcjair]    ///  cd_night #r
+@4065 = ~Rest would be welcome lest we endanger ourselves.~ [zgcjaic]    ///  cd_tired #c
+@4068 = ~I hope this is not a sign of things to come. We must strive to maintain balance.~ [zgcjai5_]   ///  cd_unhappy_1 #5_
+@4069 = ~This is no longer a matter that can be brushed aside! Change your ways or we shall be at odds!~ [zgcjai6_]   ///  cd_unhappy_2 #6_
+
 
 /// @00 = ~BGNPC: ~
 /// @01 = ~~ [zgci]    ///  cd_action1 #i
