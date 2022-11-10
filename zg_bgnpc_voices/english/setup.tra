@@ -1324,6 +1324,55 @@
 @4069 = ~This is no longer a matter that can be brushed aside! Change your ways or we shall be at odds!~ [zgcjai6_]   ///  cd_unhappy_2 #6_
 
 
+@4100 = ~BGNPC: Jaheira (cut, recasted) (SoD)~
+@4101 = ~If it will help.~ [zgcjaji]    ///  cd_action1 #i
+@4102 = ~I see.~ [zgcjajj]    ///  cd_action2 #j
+@4103 = ~Yes.~ [zgcjajk]    ///  cd_action3 #k
+@4104 = ~It's done.~ [zgcjajs]    ///  cd_action4 #s
+@4105 = ~I will.~ [zgcjajt]    ///  cd_action5 #t
+@4106 = ~At once.~ [zgcjaju]    ///  cd_action6 #u
+@4107 = ~Aye.~ [zgcjajv]    ///  cd_action7 #v
+@4116 = ~Nature guides my hand!~ [zgcjaja]    ///  cd_battlecry1 #a
+@4117 = ~For balance!~ [zgcjaj8]    ///  cd_battlecry2 #8
+@4118 = ~The worms shall feast on thee!~ [zgcjaj9]    ///  cd_battlecry3 #9
+@4119 = ~At them!~ [zgcjajg_]   ///  cd_battlecry4 #g_
+@4120 = ~The end comes to you!~ [zgcjajh_]   ///  cd_battlecry5 #h_
+@4121 = ~We have much to do, and waste time standing here.~ [zgcjajd]    ///  cd_bored #d
+@4123 = ~That is enough! We are clearly at odds and cannot work together. I shall go my own way.~ [zgcjajj_]   ///  cd_breaking_pt #j_
+@4124 = ~These buildings are nature's gravestones. I say we tear them all down.~ [zgcjajo]    ///  cd_city #o
+@4125 = ~Hm?~ [zgcjajf]    ///  cd_common1 #f
+@4126 = ~What is the task?~ [zgcjajg]    ///  cd_common2 #g
+@4127 = ~Yes?~ [zgcjajh]    ///  cd_common3 #h
+@4128 = ~Am I needed?~ [zgcjaj0]    ///  cd_common4 #0
+@4129 = ~I'm here.~ [zgcjajk_]   ///  cd_common5 #k_
+@4130 = ~Now what?~ [zgcjajl_]   ///  cd_common6 #l_
+@4132 = ~Suffer nature's wrath!~ [zgcjajz]    ///  cd_criticalhit #z
+@4133 = ~For every hit, a miss.~ [zgcjaj1]    ///  cd_criticalmiss #1 (number)
+@4134 = ~Ugh!~ [zgcjajl]    ///  cd_damage #l (letter)
+@4137 = ~Dawn breaks, and the sun wakens all life.~ [zgcjajq]    ///  cd_day #q
+@4138 = ~My magic fails!~ [zgcjaj6]    ///  cd_disrupted #6
+@4139 = ~The strangest and wildest creatures live beneath the earth. Tread softly through their domain.~ [zgcjajp]    ///  cd_dungeon #p
+@4140 = ~My circle closes.~ [zgcjajm]    ///  cd_dying #m
+@4142 = ~Outdoors, I feel as if I could one day find peace.~ [zgcjajn]    ///  cd_forest #n
+@4145 = ~Our actions please me so far. Keep acting as you have and I shall find little fault.~ [zgcjajr_]   ///  cd_happy #r_
+@4146 = ~My life force ebbs... I need healing.~ [zgcjaje]    ///  cd_hurt #e
+@4148 = ~I cannot hurt this enemy. I must try something else.~ [zgcjaj2]    ///  cd_immune #2
+@4149 = ~I'm not here to carry your bags. I dropped it.~ [zgcjaj3]    ///  cd_inventory #3
+@4150 = ~I am surprised and pleased by this decision. I shall lead us well.~ [zgcjajb]    ///  cd_leader #b
+@4152 = ~My time is not yet come!~ [zgcjaju_]   ///  cd_morale_break #u_
+@4154 = ~In night's stillness, prey crawls into their burrows to sleep and predators set out to hunt.~ [zgcjajr]    ///  cd_night #r
+@4155 = ~This is mine now.~ [zgcjaj4]    ///  cd_pickpocket #4
+@4156 = ~This would be a good place for a henge!~ [zgcjajw_]   ///  cd_select_rare1 #w_
+@4157 = ~I rule my life like a bird in flight.~ [zgcjajx_]   ///  cd_select_rare2 #x_
+@4158 = ~Sometimes, it is hard to stay truly neutral when the people around me are such idiots.~ [zgcjajy_]   ///  cd_select_rare3 #y_
+@4159 = ~Nature never betrays the heart that loves her, but it kicks the stuffing out of everyone else.~ [zgcjajz_]   ///  cd_select_rare4 #z_
+@4164 = ~Camouflaged.~ [zgcjaj5]    ///  cd_shadows #5
+@4165 = ~Everything in nature sleeps. We should as well.~ [zgcjajc]    ///  cd_tired #c
+@4167 = ~A snare is laid.~ [zgcjaj7]    ///  cd_trap #7
+@4168 = ~Our balance is disrupted. YOU must do better.~ [zgcjaj5_]   ///  cd_unhappy_1 #5_
+@4169 = ~We slide farther and farther from the center. Our group cannot last long if we continue this way.~ [zgcjaj6_]   ///  cd_unhappy_2 #6_
+
+
 /// @00 = ~BGNPC: ~
 /// @01 = ~~ [zgci]    ///  cd_action1 #i
 /// @02 = ~~ [zgcj]    ///  cd_action2 #j
