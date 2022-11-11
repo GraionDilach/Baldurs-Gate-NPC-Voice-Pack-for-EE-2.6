@@ -1424,6 +1424,56 @@
 @4269 = ~Watch it. You're straying farther off the path than I'm ready to go.~ [zgcsch6_]   ///  cd_unhappy_2 #6_
 
 
+@4300 = ~BGNPC: Dynaheir (SoD)~
+@4301 = ~Done and done.~ [zgcdyoi]    ///  cd_action1 #i
+@4302 = ~Whatever thy wills.~ [zgcdyoj]    ///  cd_action2 #j
+@4303 = ~I shall.~ [zgcdyok]    ///  cd_action3 #k
+@4304 = ~Aye.~ [zgcdyos]    ///  cd_action4 #s
+@4305 = ~Forthwith!~ [zgcdyot]    ///  cd_action5 #t
+@4306 = ~Agreed.~ [zgcdyou]    ///  cd_action6 #u
+@4307 = ~I go.~ [zgcdyov]    ///  cd_action7 #v
+@4316 = ~'Tis my will!~ [zgcdyoa]    ///  cd_battlecry1 #a
+@4317 = ~Suffer the wrath of the arcane!~ [zgcdyo8]    ///  cd_battlecry2 #8
+@4318 = ~My magic will end thee!~ [zgcdyo9]    ///  cd_battlecry3 #9
+@4319 = ~Varlets! Prepare for thine end!~ [zgcdyog_]   ///  cd_battlecry4 #g_
+@4320 = ~Doom draws close to thee!~ [zgcdyoh_]   ///  cd_battlecry5 #h_
+@4321 = ~My mind is powerful and craves activity. We should move forward.~ [zgcdyod]    ///  cd_bored #d
+@4323 = ~I shall play no further role in thy machinations. Fare thee well.~ [zgcdyoj_]   ///  cd_breaking_pt #j_
+@4324 = ~Many minds and much knowledge collected in such a small place.~ [zgcdyoo]    ///  cd_city #o
+@4325 = ~Thy called?~ [zgcdyof]    ///  cd_common1 #f
+@4326 = ~Yes?~ [zgcdyog]    ///  cd_common2 #g
+@4327 = ~Thy demand?~ [zgcdyoh]    ///  cd_common3 #h
+@4328 = ~Hm?~ [zgcdyo0]    ///  cd_common4 #0
+@4329 = ~And?~ [zgcdyok_]   ///  cd_common5 #k_
+@4330 = ~I hear.~ [zgcdyol_]   ///  cd_common6 #l_
+@4332 = ~A wizard's might!~ [zgcdyoz]    ///  cd_criticalhit #z
+@4333 = ~Another try I shall give.~ [zgcdyo1]    ///  cd_criticalmiss #1 (number)
+@4334 = ~Ah!~ [zgcdyol]    ///  cd_damage #l (letter)
+@4337 = ~Ah, the sun smiles on thee!~ [zgcdyoq]    ///  cd_day #q
+@4338 = ~My power fails me!~ [zgcdyo6]    ///  cd_disrupted #6
+@4339 = ~Keep watch for ancient tomes or any scrolls that might contain lost arcana.~ [zgcdyop]    ///  cd_dungeon #p
+@4340 = ~Aiiiieah!~ [zgcdyom]    ///  cd_dying #m
+@4342 = ~A pleasant enough walk, though I feel solitary so far from civilization's walls.~ [zgcdyon]    ///  cd_forest #n
+@4343 = ~I promise thee, thy death shall not be in vain.~ [zgcdyow]    ///  cd_gen_death #w
+@4345 = ~This group shows promise... extraordinary.~ [zgcdyor_]   ///  cd_happy #r_
+@4346 = ~Thy must heal me!~ [zgcdyoe]    ///  cd_hurt #e
+@4348 = ~This will not work. I must try a different tack.~ [zgcdyo2]    ///  cd_immune #2
+@4349 = ~I am not a servant to carry so much. I have dropped it.~ [zgcdyo3]    ///  cd_inventory #3
+@4350 = ~A wise choice to appoint the wiser.~ [zgcdyob]    ///  cd_leader #b
+@4352 = ~I am not a warrior to fight such a battle! I retreat!~ [zgcdyou_]   ///  cd_morale_break #u_
+@4354 = ~Shadows draw around thee. Remain on thy guard throughout the night.~ [zgcdyor]    ///  cd_night #r
+@4355 = ~From thy purse to mine.~ [zgcdyo4]    ///  cd_pickpocket #4
+@4356 = ~Thy wish for intelligent conversation?~ [zgcdyow_]   ///  cd_select_rare1 #w_
+@4357 = ~Thee pestereth me with more demands!~ [zgcdyox_]   ///  cd_select_rare2 #x_
+@4358 = ~Wouldst thou like to see a magic trick? There! I hast thy nose.~ [zgcdyoy_]   ///  cd_select_rare3 #y_
+@4359 = ~Thine asks — eh, I, I mean, thee, um — What do you want?~ [zgcdyoz_]   ///  cd_select_rare4 #z_
+@4364 = ~Ah, I vanish.~ [zgcdyo5]    ///  cd_shadows #5
+@4365 = ~Magic does not nest well in a tired mind. *yawn* I must sleep.~ [zgcdyoc]    ///  cd_tired #c
+@4367 = ~I have crafted a trap.~ [zgcdyo7]    ///  cd_trap #7
+@4368 = ~Thy veerest too far from the path of right. Correct thine steps.~ [zgcdyo5_]   ///  cd_unhappy_1 #5_
+@4369 = ~I warn thee, for the last time, this is not the behavior I expect from thee. Look to mine example!~ [zgcdyo6_]   ///  cd_unhappy_2 #6_
+
+
 /// @00 = ~BGNPC: ~
 /// @01 = ~~ [zgci]    ///  cd_action1 #i
 /// @02 = ~~ [zgcj]    ///  cd_action2 #j
