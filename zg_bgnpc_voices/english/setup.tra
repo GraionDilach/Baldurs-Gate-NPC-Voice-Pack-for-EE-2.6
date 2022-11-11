@@ -1474,6 +1474,57 @@
 @4369 = ~I warn thee, for the last time, this is not the behavior I expect from thee. Look to mine example!~ [zgcdyo6_]   ///  cd_unhappy_2 #6_
 
 
+@4400 = ~BGNPC: Glint Gardnersonson (SoD)~
+@4401 = ~You bet!~ [zgcglii]    ///  cd_action1 #i
+@4402 = ~With FLAIR!~ [zgcglij]    ///  cd_action2 #j
+@4403 = ~Yep!~ [zgcglik]    ///  cd_action3 #k
+@4404 = ~Just watch me now!~ [zgcglis]    ///  cd_action4 #s
+@4405 = ~Mm-hmm?~ [zgcglit]    ///  cd_action5 #t
+@4406 = ~On it!~ [zgcgliu]    ///  cd_action6 #u
+@4407 = ~Best gnome for the job!~ [zgcgliv]    ///  cd_action7 #v
+@4416 = ~Come at me!~ [zgcglia]    ///  cd_battlecry1 #a
+@4417 = ~For Cloakshadow!~ [zgcgli8]    ///  cd_battlecry2 #8
+@4418 = ~Death comes for you on short legs!~ [zgcgli9]    ///  cd_battlecry3 #9
+@4419 = ~I killed two ogres with a bent fork and some bootblack once!~ [zgcglig_]   ///  cd_battlecry4 #g_
+@4420 = ~Destruction! Ruin! Mayhem! Other synonyms for death!~ [zgcglih_]   ///  cd_battlecry5 #h_
+@4421 = ~If you don't give me something to do, I'll have to amuse myself, and NO ONE wants that.~ [zgcglid]    ///  cd_bored #d
+@4423 = ~That's it! I've had it with you and your poor leadership choices. I'm done. DONE!~ [zgcglij_]   ///  cd_breaking_pt #j_
+@4424 = ~Look at all these marks — I, I mean, potential converts to the glory of Cloakshadow.~ [zgcglio]    ///  cd_city #o
+@4425 = ~You called?~ [zgcglif]    ///  cd_common1 #f
+@4426 = ~Yes, yes?~ [zgcglig]    ///  cd_common2 #g
+@4427 = ~Whaddaya need?~ [zgcglih]    ///  cd_common3 #h
+@4428 = ~Time to go?~ [zgcgli0]    ///  cd_common4 #0
+@4429 = ~Uh-huh?~ [zgcglik_]   ///  cd_common5 #k_
+@4430 = ~Hey!~ [zgcglil_]   ///  cd_common6 #l_
+@4432 = ~In Baravar's name!~ [zgcgliz]    ///  cd_criticalhit #z
+@4433 = ~No one saw that.~ [zgcgli1]    ///  cd_criticalmiss #1 (number)
+@4434 = ~Owww!~ [zgcglil]    ///  cd_damage #l (letter)
+@4437 = ~Without the sun, we'd have no shadows.~ [zgcgliq]    ///  cd_day #q
+@4438 = ~Darn, lost the spell!~ [zgcgli6]    ///  cd_disrupted #6
+@4439 = ~The Sly One protects us in the darkness. Good thing too, 'cause this place is nasty.~ [zgcglip]    ///  cd_dungeon #p
+@4440 = ~I regret nothing...~ [zgcglim]    ///  cd_dying #m
+@4442 = ~Ah, fresh air and the beauty of nature! So... how long do we have to stay out here?~ [zgcglin]    ///  cd_forest #n
+@4443 = ~Oh dear. That's an unfortunate turn of events.~ [zgcgliw]    ///  cd_gen_death #w
+@4445 = ~I've traveled with a lot of great people in the past. More than you might believe. But this is the best team ever.~ [zgcglir_]   ///  cd_happy #r_
+@4446 = ~My insides are becoming my outsides!~ [zgcglie]    ///  cd_hurt #e
+@4448 = ~This isn't doing any good!~ [zgcgli2]    ///  cd_immune #2
+@4449 = ~My pockets are a little full right now. Had to drop it.~ [zgcgli3]    ///  cd_inventory #3
+@4450 = ~Nobody panic! I'm in charge now. Well, perhaps you should panic after all. But don't!~ [zgcglib]    ///  cd_leader #b
+@4452 = ~You can't see me! I'm hiding! I'm hiding!~ [zgcgliu_]   ///  cd_morale_break #u_
+@4454 = ~Night time is the right time for sneaking!~ [zgcglir]    ///  cd_night #r
+@4455 = ~Oooh, what have we here?~ [zgcgli4]    ///  cd_pickpocket #4
+@4456 = ~Trust no one.~ [zgcgliw_]   ///  cd_select_rare1 #w_
+@4457 = ~I've done this a million times.~ [zgcglix_]   ///  cd_select_rare2 #x_
+@4458 = ~I've done this a million and ONE times.~ [zgcgliy_]   ///  cd_select_rare3 #y_
+@4459 = ~Gnomes are the best! HUZZAH!~ [zgcgliz_]   ///  cd_select_rare4 #z_
+@4464 = ~It's the amazing vanishing gnome!~ [zgcgli5]    ///  cd_shadows #5
+@4465 = ~My eyelids are as heavy as lead. Or steel. Or gold. Oooh, let's say gold! What I mean is, I'm tired.~ [zgcglic]    ///  cd_tired #c
+@4467 = ~Trap's on the ground. Step carefully.~ [zgcgli7]    ///  cd_trap #7
+@4468 = ~Seriously? Seriously. We're making some seriously bad calls.~ [zgcgli5_]   ///  cd_unhappy_1 #5_
+@4469 = ~I'm at the end of my rope here. There are ample opportunities elsewhere for a gnome of my caliber.~ [zgcgli6_]   ///  cd_unhappy_2 #6_
+
+
+
 /// @00 = ~BGNPC: ~
 /// @01 = ~~ [zgci]    ///  cd_action1 #i
 /// @02 = ~~ [zgcj]    ///  cd_action2 #j
