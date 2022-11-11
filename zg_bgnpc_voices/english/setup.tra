@@ -1373,6 +1373,57 @@
 @4169 = ~We slide farther and farther from the center. Our group cannot last long if we continue this way.~ [zgcjaj6_]   ///  cd_unhappy_2 #6_
 
 
+@4200 = ~BGNPC: Schael Corwin (SoD)~
+@4201 = ~Right.~ [zgcschi]    ///  cd_action1 #i
+@4202 = ~I understand.~ [zgcschj]    ///  cd_action2 #j
+@4203 = ~Yes.~ [zgcschk]    ///  cd_action3 #k
+@4204 = ~I can do that.~ [zgcschs]    ///  cd_action4 #s
+@4205 = ~Very well.~ [zgcscht]    ///  cd_action5 #t
+@4206 = ~Agreed.~ [zgcschu]    ///  cd_action6 #u
+@4207 = ~Got it.~ [zgcschv]    ///  cd_action7 #v
+@4216 = ~To battle!~ [zgcscha]    ///  cd_battlecry1 #a
+@4217 = ~Let's see how long you last against me.~ [zgcsch8]    ///  cd_battlecry2 #8
+@4218 = ~Fight if you must, but you're not winning this.~ [zgcsch9]    ///  cd_battlecry3 #9
+@4219 = ~I'm looking forward to this.~ [zgcschg_]   ///  cd_battlecry4 #g_
+@4220 = ~Time to end you!~ [zgcschh_]   ///  cd_battlecry5 #h_
+@4221 = ~We've work to do. Let's get moving.~ [zgcschd]    ///  cd_bored #d
+@4223 = ~I can't support this effort, not anymore. Farewell.~ [zgcschj_]   ///  cd_breaking_pt #j_
+@4224 = ~Ah, noise and crowds. Feels like home.~ [zgcscho]    ///  cd_city #o
+@4225 = ~Yes?~ [zgcschf]    ///  cd_common1 #f
+@4226 = ~Your orders?~ [zgcschg]    ///  cd_common2 #g
+@4227 = ~Hm?~ [zgcschh]    ///  cd_common3 #h
+@4228 = ~What?~ [zgcsch0]    ///  cd_common4 #0
+@4229 = ~Go ahead.~ [zgcschk_]   ///  cd_common5 #k_
+@4230 = ~I'm listening.~ [zgcschl_]   ///  cd_common6 #l_
+@4232 = ~Hah! My aim is true.~ [zgcschz]    ///  cd_criticalhit #z
+@4233 = ~I'll recover.~ [zgcsch1]    ///  cd_criticalmiss #1 (number)
+@4234 = ~Ow!~ [zgcschl]    ///  cd_damage #l (letter)
+@4237 = ~Light and warmth. I'm glad for both.~ [zgcschq]    ///  cd_day #q
+@4238 = ~My spell! I lost it.~ [zgcsch6]    ///  cd_disrupted #6
+@4239 = ~Watch your step. Nothing good comes out of a place like this.~ [zgcschp]    ///  cd_dungeon #p
+@4240 = ~No... Rohma...~ [zgcschm]    ///  cd_dying #m
+@4242 = ~The forest is so serene. I always catch myself watching for bandits, though.~ [zgcschn]    ///  cd_forest #n
+@4243 = ~I won't forget you. Your sacrifice won't have been in vain.~ [zgcschw]    ///  cd_gen_death #w
+@4244 = ~We're better off without him.~ [zgcschq_]   ///  cd_gen_death2 #q_
+@4245 = ~A team like this can't be beat.~ [zgcschr_]   ///  cd_happy #r_
+@4246 = ~Medic!~ [zgcsche]    ///  cd_hurt #e
+@4248 = ~This isn't working! We have to try something else.~ [zgcsch2]    ///  cd_immune #2
+@4249 = ~I can't carry that too. I dropped it.~ [zgcsch3]    ///  cd_inventory #3
+@4250 = ~I'm used to being in charge. I'll lead us to victory.~ [zgcschb]    ///  cd_leader #b
+@4252 = ~Rohma needs a mother!~ [zgcschu_]   ///  cd_morale_break #u_
+@4254 = ~In the city, you rarely see the stars. They're beautiful tonight.~ [zgcschr]    ///  cd_night #r
+@4255 = ~I'll just take that...~ [zgcsch4]    ///  cd_pickpocket #4
+@4256 = ~What are your orders, hero?~ [zgcschw_]   ///  cd_select_rare1 #w_
+@4257 = ~I'm a ranger. I want to RANGE.~ [zgcschx_]   ///  cd_select_rare2 #x_
+@4258 = ~Do you think love can bloom even on a battlefield?~ [zgcschy_]   ///  cd_select_rare3 #y_
+@4259 = ~Sometimes I dream I'm a chaotic good elf.~ [zgcschz_]   ///  cd_select_rare4 #z_
+@4264 = ~Shhh. I'm hidden.~ [zgcsch5]    ///  cd_shadows #5
+@4265 = ~An army can't march forever. We've got to rest.~ [zgcschc]    ///  cd_tired #c
+@4267 = ~Careful — I've put a trap down.~ [zgcsch7]    ///  cd_trap #7
+@4268 = ~This isn't working. We need to do better.~ [zgcsch5_]   ///  cd_unhappy_1 #5_
+@4269 = ~Watch it. You're straying farther off the path than I'm ready to go.~ [zgcsch6_]   ///  cd_unhappy_2 #6_
+
+
 /// @00 = ~BGNPC: ~
 /// @01 = ~~ [zgci]    ///  cd_action1 #i
 /// @02 = ~~ [zgcj]    ///  cd_action2 #j
