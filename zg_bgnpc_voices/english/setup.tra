@@ -1524,6 +1524,56 @@
 @4469 = ~I'm at the end of my rope here. There are ample opportunities elsewhere for a gnome of my caliber.~ [zgcgli6_]   ///  cd_unhappy_2 #6_
 
 
+@4500 = ~BGNPC: Khalid (SoD)~
+@4501 = ~If none are b-better.~ [zgckhbi]    ///  cd_action1 #i
+@4502 = ~I'll d-do it.~ [zgckhbj]    ///  cd_action2 #j
+@4503 = ~At once.~ [zgckhbk]    ///  cd_action3 #k
+@4504 = ~Y-yes!~ [zgckhbs]    ///  cd_action4 #s
+@4505 = ~With h-haste.~ [zgckhbt]    ///  cd_action5 #t
+@4506 = ~I-I shall.~ [zgckhbu]    ///  cd_action6 #u
+@4507 = ~It's done.~ [zgckhbv]    ///  cd_action7 #v
+@4516 = ~To arms!~ [zgckhba]    ///  cd_battlecry1 #a
+@4517 = ~Our foes will f-fall!~ [zgckhb8]    ///  cd_battlecry2 #8
+@4518 = ~You might want to run away?~ [zgckhb9]    ///  cd_battlecry3 #9
+@4519 = ~Victory!~ [zgckhbg_]   ///  cd_battlecry4 #g_
+@4520 = ~Ch-charge!~ [zgckhbh_]   ///  cd_battlecry5 #h_
+@4521 = ~I prefer these long periods of relaxation. Lovely day for it.~ [zgckhbd]    ///  cd_bored #d
+@4523 = ~You go too far. I cannot be a party to such actions. Even I can show c-courage in the face of such wrongdoing.~ [zgckhbj_]   ///  cd_breaking_pt #j_
+@4524 = ~Such a large place. Q-quite a lot of bustle. A-and hustle.~ [zgckhbo]    ///  cd_city #o
+@4525 = ~C-can I help you?~ [zgckhbf]    ///  cd_common1 #f
+@4526 = ~Yes?~ [zgckhbg]    ///  cd_common2 #g
+@4527 = ~Huh?~ [zgckhbh]    ///  cd_common3 #h
+@4528 = ~M-me?~ [zgckhb0]    ///  cd_common4 #0
+@4529 = ~P-problem?~ [zgckhbk_]   ///  cd_common5 #k_
+@4530 = ~W-w-what is it?~ [zgckhbl_]   ///  cd_common6 #l_
+@4532 = ~Take th-that!~ [zgckhbz]    ///  cd_criticalhit #z
+@4533 = ~Ah! I will recover.~ [zgckhb1]    ///  cd_criticalmiss #1 (number)
+@4534 = ~Oww!~ [zgckhbl]    ///  cd_damage #l (letter)
+@4537 = ~What dangers will this day b-bring?~ [zgckhbq]    ///  cd_day #q
+@4538 = ~Oh, my spell is wasted!~ [zgckhb6]    ///  cd_disrupted #6
+@4539 = ~Though I can see in the d-d-dark, I still prefer the surface.~ [zgckhbp]    ///  cd_dungeon #p
+@4540 = ~I have f-fallen...~ [zgckhbm]    ///  cd_dying #m
+@4542 = ~A b-breath of fresh air.~ [zgckhbn]    ///  cd_forest #n
+@4543 = ~Another ally lost. How many m-more must fall before this madness ends?~ [zgckhbw]    ///  cd_gen_death #w
+@4545 = ~I count myself lucky to be part of such a group.~ [zgckhbr_]   ///  cd_happy #r_
+@4546 = ~I need aid!~ [zgckhbe]    ///  cd_hurt #e
+@4548 = ~Hm? I can't hurt it!~ [zgckhb2]    ///  cd_immune #2
+@4549 = ~Sorry, I can't hold that much. I d-d-dropped it.~ [zgckhb3]    ///  cd_inventory #3
+@4550 = ~Are you sure? I mean are you r-really sure? All right, then.~ [zgckhbb]    ///  cd_leader #b
+@4552 = ~Advance backward!~ [zgckhbu_]   ///  cd_morale_break #u_
+@4554 = ~So many shadows at night. I see enemies behind every tree or house.~ [zgckhbr]    ///  cd_night #r
+@4555 = ~I did it!~ [zgckhb4]    ///  cd_pickpocket #4
+@4556 = ~Did you n-need something else?~ [zgckhbw_]   ///  cd_select_rare1 #w_
+@4557 = ~Aaaah! D-don't sneak up on me like that!~ [zgckhbx_]   ///  cd_select_rare2 #x_
+@4558 = ~It may t-t-take me longer to express myself, b-b-b-but that doesn't mean my thoughts aren't worth sh-sharing.~ [zgckhby_]   ///  cd_select_rare3 #y_
+@4559 = ~Ahhh!~ [zgckhbz_]   ///  cd_select_rare4 #z_
+@4564 = ~I'm s-s-sneaking.~ [zgckhb5]    ///  cd_shadows #5
+@4565 = ~My steps begin to d-d-drag. I think we should rest.~ [zgckhbc]    ///  cd_tired #c
+@4567 = ~Set a booby trap.~ [zgckhb7]    ///  cd_trap #7
+@4568 = ~Oh, d-d-dear. This isn't going well. Not well at all.~ [zgckhb5_]   ///  cd_unhappy_1 #5_
+@4569 = ~Could we talk about the, well, the evil g-going on?~ [zgckhb6_]   ///  cd_unhappy_2 #6_
+
+
 
 /// @00 = ~BGNPC: ~
 /// @01 = ~~ [zgci]    ///  cd_action1 #i
