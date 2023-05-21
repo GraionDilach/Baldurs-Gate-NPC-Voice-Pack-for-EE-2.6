@@ -7,8 +7,13 @@ This mod adds Baldur's Gate NPC voicesets as selectable player voicesets to the 
 Due to inconsistency between voicesets in the source games, not every voiceset covers every role. Discrepancies between characters are commonplace. Vanilia BG1 characters might have their sets extended with BG2 lines (marked with a + on the voice selection UI) while BGEE characters have SoD and BG1EE merged together because their BGEE voiceset contains the absolute minimum amount of lines.
 
 ## Version history
+### Next version
+
+Prevent installing on unmerged SoD.
+Move backup and inlined folder to weidu_external.
+
 ### 0.3.0
-Adds 
+Adds
  - Schael Corwin - SoD
  - Dynaheir - SoD
  - Glint Gardnersonson - SoD
