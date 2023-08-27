@@ -1,6 +1,6 @@
 BACKUP ~weidu_external/zg_bgnpc_voices/backup~ // location to store files for uninstall purposes
 SUPPORT "https://forums.beamdog.com/discussion/82008"
-VERSION ~0.3.0~
+VERSION ~0.3.1~
 
 
 LANGUAGE ~English~ ~english~ ~zg_bgnpc_voices/english/setup.tra~
@@ -793,7 +793,7 @@ LAF cd_add_soundset
     cd_criticalhit        = RESOLVE_STR_REF(@2432) //  z
     cd_criticalmiss       = RESOLVE_STR_REF(@2433) //  1  (number)
     cd_damage1            = RESOLVE_STR_REF(@2434) //  l  (letter)
-    cd_damage2            = RESOLVE_STR_REF(@2435) //  n_ (unofficial)
+    // cd_damage2            = RESOLVE_STR_REF(@2435) //  n_ (unofficial)
     cd_day                = RESOLVE_STR_REF(@2437) //  q
     cd_disrupted          = RESOLVE_STR_REF(@2438) //  6
     cd_dungeon            = RESOLVE_STR_REF(@2439) //  p
@@ -1503,7 +1503,7 @@ LAF cd_add_soundset
     cd_criticalhit        = RESOLVE_STR_REF(@3832) //  z
     cd_criticalmiss       = RESOLVE_STR_REF(@3833) //  1  (number)
     cd_damage1            = RESOLVE_STR_REF(@3834) //  l  (letter)
-    cd_damage2            = RESOLVE_STR_REF(@3835) //  n_ (unofficial)
+    // cd_damage2            = RESOLVE_STR_REF(@3835) //  n_ (unofficial)
     cd_day                = RESOLVE_STR_REF(@3837) //  q
     cd_disrupted          = RESOLVE_STR_REF(@3838) //  6
     cd_dungeon            = RESOLVE_STR_REF(@3839) //  p
@@ -1971,8 +1971,8 @@ END
 ///     cd_criticalhit        = RESOLVE_STR_REF(@32) //  z
 ///     cd_criticalmiss       = RESOLVE_STR_REF(@33) //  1  (number)
 ///     cd_damage1            = RESOLVE_STR_REF(@34) //  l  (letter)
-///     cd_damage2            = RESOLVE_STR_REF(@35) //  n_ (unofficial)
-///     cd_damage3            = RESOLVE_STR_REF(@36) //  o_ (unofficial)
+///     // cd_damage2            = RESOLVE_STR_REF(@35) //  n_ (unofficial)
+///     // cd_damage3            = RESOLVE_STR_REF(@36) //  o_ (unofficial)
 ///     cd_day                = RESOLVE_STR_REF(@37) //  q
 ///     cd_disrupted          = RESOLVE_STR_REF(@38) //  6
 ///     cd_dungeon            = RESOLVE_STR_REF(@39) //  p
